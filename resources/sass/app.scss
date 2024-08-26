@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+// Importa o Bootstrap
+
+// Seus estilos personalizados
+body {
+    padding-top: 56px; // Exemplo de estilo personalizado
+}
